@@ -1,5 +1,5 @@
-### Hi there 👋
-- 🌱 I’m currently learning Ruby
+### About Me 👋
+- 🌱 I’m currently learning Ruby and Wordpress
 
 <!--
 **bstuike/bstuike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
